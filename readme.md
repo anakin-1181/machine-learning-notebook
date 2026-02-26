@@ -6,7 +6,7 @@ A collection of machine learning models and experiments for learning and referen
 
 - [CNN (Convolutional Neural Network)](./CNN)
     - Demo: [Draw A Number](https://huggingface.co/spaces/anakin-1181/Draw_A_Number)
-- [Linear Regression](./Linear%20Regression)
+- [Linear Regression](./Regression)
 
 ## Getting Started
 
